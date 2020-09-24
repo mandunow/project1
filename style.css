@@ -1,8 +1,13 @@
-
+h1 {
+    background-color: hsl(354, 39%, 95%);
+    color: hsl(210, 14%, 26%);
+    font-size: 50px;
+    font-family: "Baskerville", serif;
+}
   
 p {
-    background-color: ;
-    color: ed;
+    background-color: hsl(354, 39%, 95%);
+    color: hsl(210, 14%, 26%);
     font-size: 15px;
     font-family: "Palatino", serif;
   }
