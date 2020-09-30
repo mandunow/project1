@@ -7,20 +7,20 @@ body {
 }
 
 h1 {
-    color: hsl(343, 77%, 87%);
-    font-size: 50px;
-    font-family: "Baskerville", serif;
+  color: hsl(343, 77%, 87%);
+  font-size: 50px;
+  font-family: "Baskerville", serif;
 }
 
 h2 {
-        color: hsl(345, 63%, 76%);
-    font-size: 30px;
-    font-family: "Baskerville", serif;  
+  color: hsl(345, 63%, 76%);
+  font-size: 30px;
+  font-family: "Baskerville", serif;
 }
 
 p {
-    color: hsl(352, 26%, 95%);
-    font-size: 15px;
-    font-family: "Palatino", serif;
-  }
-
+  color: hsl(352, 26%, 95%);
+  font-size: 15px;
+  font-family: "Palatino", serif;
+  line-height: 2.5;
+}
