@@ -24,3 +24,7 @@ p {
   font-family: "Palatino", serif;
   line-height: 2.5;
 }
+
+.highlight {
+  color:hsl(343, 77%, 87%);
+}
