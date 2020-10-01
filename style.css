@@ -21,14 +21,14 @@ h2 {
 
 p {
   border-top: 2px solid hsl(213, 36%, 70%);
-  border-bottom:2px solid hsl(213, 36%, 70%);;
+  border-bottom: 2px solid hsl(213, 36%, 70%);
   color: hsl(352, 26%, 95%);
   font-size: 15px;
   font-family: "Palatino", serif;
   line-height: 2.5;
-  
+  margin: 45px 140px;
 }
 
 .highlight {
-  color:hsl(339, 100%, 92%);
+  color: hsl(339, 100%, 92%);
 }
