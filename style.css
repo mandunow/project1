@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   background-color: hsl(207, 36%, 49%);
   text-align: center;
@@ -19,6 +20,7 @@ h2 {
 }
 
 p {
+  border: 3px solid pink;
   color: hsl(352, 26%, 95%);
   font-size: 15px;
   font-family: "Palatino", serif;
